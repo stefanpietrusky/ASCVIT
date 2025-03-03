@@ -15,7 +15,7 @@ The code to run the app is already in the repository as well as a script (clean.
 ## Installing and running the application 
 1. Clone this repository on your local computer: 
 ```bash 
-git clone https://github.com/stefanpietrusky/ascvitv1.git
+git clone https://github.com/stefanpietrusky/ascvitv1.5.git
 ```
 2. Install the required dependencies:
 ```bash 
