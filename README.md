@@ -5,11 +5,12 @@ This repository, developed by Stefan Pietrusky, is based on the article publishe
 
 ![ASCVIT V1.5 Automatic interpretation by LLM (Image by author)](images/ASCVITV1.5_LLM_Function.png)
 
+## Overview of the statistical procedures 
 The following statistical procedures are supported by the first Version:
 ![ASCVIT V1.5 Overview of analysis methods (Image by author)](images/ASCVITV1.5_Overview.png)
 
+## Structure and function of ASCVIT
 The code to run the app is already in the repository as well as a script (clean.py) to remove missing values from data records. Below is a short GIF showing the structure and function of the app.
-
 ![ASCVIT V1.5 (Gif by author](images/ASCVITV1.5.gif)
 
 ## Installing and running the application 
