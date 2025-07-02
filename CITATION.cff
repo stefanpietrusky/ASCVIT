@@ -1,6 +1,6 @@
 cff-version: 1.2.0
-message: "Wenn Sie dieses Repository zitieren, verwenden Sie bitte die folgende Referenz."
-title: "AUTOMATIC STATISTICAL CALCULATION, VISUALIZATION AND INTERPRETATION TOOL (ASCVIT) V1.5"
+message: "If you cite this repository, please use the following reference."
+title: "AUTOMATIC STATISTICAL CALCULATION, VISUALIZATION AND INTERPRETATION TOOL (ASCVIT) V2"
 authors:
   - family-names: "Pietrusky"
     given-names: "Stefan"
