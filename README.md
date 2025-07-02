@@ -35,9 +35,13 @@ python clean.py
 ```
 5. If you use V1.5 start the Streamlit app:
 ```bash 
-streamlit run app.py
+streamlit run appv1.5.py
 ```
-6. Use the file data.csv to test the application.
+6. If you use V2 start app with:
+```bash 
+python appv2.py
+```
+7 Use the file data.csv to test the application.
 
 ## References
 [1] Pietrusky, S. (2024). ASCVIT V1: Automatic Statistical Calculation, Visualization, and Interpretation Tool. Towards Data Science
