@@ -1,4 +1,4 @@
-![](images/ASCVIT.png)
+![](images/ASCVIT_Logo.png)
 
 # ASCVIT V2 APP
 ## Automatic Statistical Calculation, Visualization, and Interpretation Tool
