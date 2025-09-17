@@ -7,6 +7,8 @@ This repository, developed by Stefan Pietrusky, is based on the article publishe
 
 ASCVIT can be used in social work, specifically in associations and organizations that collect a wide range of data and can use the tool to evaluate it in order to better understand financial needs [[2]](https://www.pedocs.de/frontdoor.php?source_opus=33234). This is an open source project for educational and research purposes.
 
+> **⚠️ Work in Progress:** This prototyp is currently under active development. While I make it available for research purposes, please be aware that there will be some changes to the functional structure. I recognize that some current technical design decisions may not be optimal and are subject to revision. Researchers using this prototyp should expect potential updates and changes. I recommend checking back regularly for updates and versioning information.
+
 ![ASCVIT V1.5 Automatic interpretation by LLM (Image by author)](images/ASCVITV2_LLM_Function.png)
 
 ## Overview of the statistical procedures 
