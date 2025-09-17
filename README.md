@@ -43,7 +43,7 @@ streamlit run appv1.5.py
 ```bash 
 python appv2.py
 ```
-7. Use the file data.csv to test the application.
+7. Use the file [data.csv](https://github.com/stefanpietrusky/ASCVIT/blob/main/data.csv) to test the application.
 
 ## References
 [1] Pietrusky, S. (2024). ASCVIT V1: Automatic Statistical Calculation, Visualization, and Interpretation Tool. Towards Data Science
