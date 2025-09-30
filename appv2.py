@@ -1,7 +1,8 @@
 """
 title: ASCVIT V2 [AUTOMATIC STATISTICAL CALCULATION, VISUALIZATION AND INTERPRETATION TOOL]
 author: stefanpietrusky
-author_url: https://downchurch.studio/
+author_url1: https://downchurch.studio/
+author_url2: https://urlz.fr/uj1I [CAEDHET/HCDH Heidelberg University]
 version: 0.1
 """
 
@@ -2285,3 +2286,4 @@ def cluster():
 
 if __name__ == "__main__":
     app.run(debug=True)
+
