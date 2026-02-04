@@ -7,13 +7,15 @@ This repository, developed by Stefan Pietrusky, is based on the article publishe
 
 ASCVIT can be used in social work, specifically in associations and organizations that collect a wide range of data and can use the tool to evaluate it in order to better understand financial needs [[2]](https://www.pedocs.de/frontdoor.php?source_opus=33234). This is an open source project for educational and research purposes.
 
+ASCVIT V3 expands the tool with greater statistical coverage, more automation, and additional guidance on what is possible. The data overview no longer provides just a preview/description, but also automatic recommendations as to which variables and procedures are particularly useful based on missing rate, variance, number of levels/balance, etc. (including detection of date-like columns and binary numerical candidates). This lowers the barrier to entry because “good” analyses are suggested more quickly. Additional procedures have been implemented in the hypothesis testing module. In addition to t-test/ANOVA/Chi², Mann-Whitney U, Welch-ANOVA, Kruskal-Wallis, ANOVA with repeated measurements, and Fisher Exact (2×2) have been added. ASCVIT V3 thus also better covers robust or non-parametric and special designs. 
+
 ![ASCVIT V1.5 Automatic interpretation by LLM (Image by author)](images/ASCVITV2_LLM_Function.png)
 
 > **⚠️ Work in Progress:** This prototyp is currently under active development. While I make it available for research purposes, please be aware that there will be some changes to the functional structure. I recognize that some current technical design decisions may not be optimal and are subject to revision. Researchers using this prototyp should expect potential updates and changes. I recommend checking back regularly for updates and versioning information.
 
 ## Overview of the statistical procedures 
 The following statistical procedures are supported by the first Version:
-![ASCVIT V1.5 Overview of analysis methods (Image by author)](images/ASCVITV2_Overview.png)
+![ASCVIT V1.5 Overview of analysis methods (Image by author)](images/ASCVITV3_Overview.png)
 
 ## Structure and function of ASCVIT [V1.5]
 The code to run the app is already in the repository as well as a script (clean.py) to remove missing values from data records. Below is a short GIF showing the structure and function of the app.
