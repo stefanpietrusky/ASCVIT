@@ -21,16 +21,16 @@ The following statistical procedures are supported by the third Version:
 The code to run the app is already in the repository as well as a script (clean.py) to remove missing values from data records. Below is a short GIF showing the structure and function of the app.
 ![ASCVIT V1.5 (Gif by author](images/ASCVITV1.5.gif)
 
-## The latest version of ASCVIT [V2]
+## The latest version of ASCVIT [V3]
 The new version of ASCVIT looks as follows.
-![ASCVIT V2 (Gif by author](images/ASCVITV2.gif)
+![ASCVIT V2 (Gif by author](images/ASCVITV3.gif)
 
 ## Installing and running the application 
 1. Clone this repository on your local computer: 
 ```bash 
 git clone https://github.com/stefanpietrusky/ascvitv2.git
 ```
-2. Install the required dependencies:
+2. Install the required dependencies depending on the version you want to use:
 ```bash 
 pip install -r requirements.txt
 ```
