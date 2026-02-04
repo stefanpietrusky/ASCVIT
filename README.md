@@ -1,6 +1,6 @@
 ![](images/ASCVIT_Logo.png)
 
-# ASCVIT V2 APP
+# ASCVIT V3 APP
 ## Automatic Statistical Calculation, Visualization, and Interpretation Tool
 
 This repository, developed by Stefan Pietrusky, is based on the article published at Towards Data Science [[1]](https://medium.com/towards-data-science/ascvit-v1-automatic-statistical-calculation-visualization-and-interpretation-tool-aa910001a3a7). In this article, I discuss the development of a first version (V1) of a local app that can be used to automatically apply various statistical methods to any datasets. The enhanced version of ASCVIT (V1.5) now includes automatic interpretation of all generated visualisations [appv1.5.py]. The latest version of ASCVIT is now available [appv2.py]. Streamlit is no longer used in this version. The app is completely based on customizable HTML, CSS and JS. An LLM defined via the code is no longer used, but the models installed locally via Ollama can be selected as required. The navigation has been adapted and all data visualizations are now interactive through Plotly.
@@ -14,7 +14,7 @@ ASCVIT V3 expands the tool with greater statistical coverage, more automation, a
 > **⚠️ Work in Progress:** This prototyp is currently under active development. While I make it available for research purposes, please be aware that there will be some changes to the functional structure. I recognize that some current technical design decisions may not be optimal and are subject to revision. Researchers using this prototyp should expect potential updates and changes. I recommend checking back regularly for updates and versioning information.
 
 ## Overview of the statistical procedures 
-The following statistical procedures are supported by the first Version:
+The following statistical procedures are supported by the third Version:
 ![ASCVIT V1.5 Overview of analysis methods (Image by author)](images/ASCVITV3_Overview.png)
 
 ## Structure and function of ASCVIT [V1.5]
